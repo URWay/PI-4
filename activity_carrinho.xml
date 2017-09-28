@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.lcn_fredericohotmail.lcn.Layouts">
+
+    <HorizontalScrollView
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="130dp"
+        tools:layout_editor_absoluteY="292dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+    </HorizontalScrollView>
+
+    <ImageButton
+        android:id="@+id/Prod03"
+        android:layout_width="112dp"
+        android:layout_height="51dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="292dp" />
+
+    <ImageButton
+        android:id="@+id/Prod02"
+        android:layout_width="113dp"
+        android:layout_height="54dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="228dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton8"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="450dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton9"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="226dp"
+        tools:layout_editor_absoluteY="450dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton10"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="293dp"
+        tools:layout_editor_absoluteY="450dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="450dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="450dp" />
+
+    <SearchView
+        android:layout_width="376dp"
+        android:layout_height="51dp"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <HorizontalScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+    </HorizontalScrollView>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="92dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="226dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="293dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="67dp"
+        android:layout_height="61dp"
+        app:srcCompat="@android:drawable/ic_notification_overlay"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="93dp" />
+
+    <ImageButton
+        android:id="@+id/Prod01"
+        android:layout_width="111dp"
+        android:layout_height="51dp"
+        app:srcCompat="@mipmap/ic_launcher"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="166dp" />
+
+    <HorizontalScrollView
+        android:layout_width="250dp"
+        android:layout_height="51dp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="129dp"
+        tools:layout_editor_absoluteY="166dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:layout_width="246dp"
+        android:layout_height="55dp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="133dp"
+        tools:layout_editor_absoluteY="228dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:id="@+id/Continuar"
+        android:layout_width="239dp"
+        android:layout_height="28dp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="394dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+    </HorizontalScrollView>
+
+    <HorizontalScrollView
+        android:id="@+id/Finalizar"
+        android:layout_width="239dp"
+        android:layout_height="28dp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="350dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" />
+    </HorizontalScrollView>
+
+
+</android.support.constraint.ConstraintLayout>
